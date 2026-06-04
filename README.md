@@ -13,7 +13,6 @@ StarAnimation is a project developed with HTML and JavaScript that showcases an 
 
 ## Technologies Used
 
-* HTML5
 * JavaScript
 
 ## Inspiration
