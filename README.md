@@ -2,7 +2,7 @@
 
 ## Description
 
-StarAnimation is a project developed with HTML and JavaScript that showcases an animated shooting star scene. The project was created to practice programming concepts, drawing with code, and interactive animations.
+StarAnimation is a project developed with JavaScript that showcases an animated shooting star scene. The project was created to practice programming concepts, drawing with code, and interactive animations.
 
 ## Features
 
